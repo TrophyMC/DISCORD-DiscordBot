@@ -1,0 +1,25 @@
+{
+  "BOT": {
+    "TOKEN": "MTQ1NjQ0NjAyMDc2OTgxMjcyNQ.GnPsxa.UeuYFMVmjqA-AcCW_LVo0xuYgZaLzb4pq999qo",
+    "CLIENT_ID": "1456446020769812725"
+  },
+  "REDIS": {
+    "HOST": "127.0.0.1",
+    "PORT": 6379,
+    "USER": "default",
+    "PASSWORD": "Lw42Piz*9PVRXucu",
+    "DB": 0,
+    "TTL": 3600,
+    "ACTIVE_TTL": 7200,
+    "INACTIVE_THRESHOLD": 1800,
+    "SYNC_INTERVAL": 300000,
+    "BRIDGE_CHANNEL": "trophymc:sync:minecraft-discord"
+  },
+  "DATABASE": {
+    "HOST": "127.0.0.1",
+    "PORT": 3306,
+    "USER": "admin",
+    "PASSWORD": "DAe^pN0k435i&a6*",
+    "DB_NAME": "trophymc"
+  }
+}

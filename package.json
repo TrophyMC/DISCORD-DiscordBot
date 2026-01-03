@@ -1,0 +1,18 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "DiscordBot for Minecraft Server Link",
+  "license": "MIT",
+  "author": "MecryTv",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "ioredis": "^5.8.2",
+    "mariadb": "^3.4.5",
+    "sequelize": "^6.37.7"
+  }
+}
